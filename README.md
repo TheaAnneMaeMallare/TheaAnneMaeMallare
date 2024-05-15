@@ -11,6 +11,7 @@ Passionate about code and wizardry with databases, I thrive on solving intricate
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D003934B92D4381F8D2D9B552702856F831AAF656979E502455B0FC1FE01A6DC)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF94D2760CE59C45645F4F2723441B711C2BC72DAB9B54ED0A52E1303D27723D)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/9e2d897c382c41009bb165a657770d11)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/28e5900482414523b7c5d31795b51c59) (As of May, 2024)
 
 ## 💻 Skill Sets
 - **Programming:** Java, Javascript
